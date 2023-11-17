@@ -48,6 +48,7 @@ Welcome to the User Management Dashboard, a web application built with Next.js i
  10. Start the frontend application
  11. ```bash
      npm run dev
+ 12. Access the application in your web browser at http://localhost:3000.
 
 
 
