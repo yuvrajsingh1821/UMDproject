@@ -36,11 +36,18 @@ Welcome to the User Management Dashboard, a web application built with Next.js i
  1. Fork this repository
  2. Clone this repository to your local machine:
  3. Install mongoDB in your local machine:
- 4. Run the following commands in client directory:
+ 4. Install the required dependencies for both the backend and frontend:
  5.  ```bash
-     npm install
+     cd server && npm install
+     cd ../client && npm install
+ 6. Initailize enviroment variables in server side and make sure the server is running at port 8000
+ 7. Configure the database connection
+ 8. Start the backend server
+ 9. ```bash
+    npm run dev
+ 10. Start the frontend application
+ 11. ```bash
      npm run dev
-
 
 
 
