@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .inputField{
+        @apply text-center bg-transparent placeholder-white p-3 text-white text-xl mb-2 outline-none border-b-[1px]
+    }
+    .table-heading{
+        @apply p-4 text-lg
+    }
+    .table-data{
+        @apply border-2 border-violet-900 text-center p-1
+    }
+} 
