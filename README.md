@@ -15,13 +15,21 @@ Welcome to the User Management Dashboard, a web application built with Next.js i
 **Modal**:A modal is popped up to generate report of user.
 
 ## **Technologies Used**
-# **Frontend**
+### **Frontend**
 -React
+
+
 -Nextjs
+
+
 -Tailwind CSS
-# **Backend**
+### **Backend**
 -Node.js
+
+
 -Express.js
+
+
 -MongoDB
 
 
